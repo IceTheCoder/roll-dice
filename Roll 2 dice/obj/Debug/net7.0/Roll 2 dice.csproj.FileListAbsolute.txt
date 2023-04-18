@@ -1,0 +1,15 @@
+C:\Users\Cristi\Desktop\Learning to Code\C#\Roll 2 dice\bin\Debug\net7.0\Roll 2 dice.exe
+C:\Users\Cristi\Desktop\Learning to Code\C#\Roll 2 dice\bin\Debug\net7.0\Roll 2 dice.deps.json
+C:\Users\Cristi\Desktop\Learning to Code\C#\Roll 2 dice\bin\Debug\net7.0\Roll 2 dice.runtimeconfig.json
+C:\Users\Cristi\Desktop\Learning to Code\C#\Roll 2 dice\bin\Debug\net7.0\Roll 2 dice.dll
+C:\Users\Cristi\Desktop\Learning to Code\C#\Roll 2 dice\bin\Debug\net7.0\Roll 2 dice.pdb
+C:\Users\Cristi\Desktop\Learning to Code\C#\Roll 2 dice\obj\Debug\net7.0\Roll 2 dice.csproj.AssemblyReference.cache
+C:\Users\Cristi\Desktop\Learning to Code\C#\Roll 2 dice\obj\Debug\net7.0\Roll 2 dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristi\Desktop\Learning to Code\C#\Roll 2 dice\obj\Debug\net7.0\Roll 2 dice.AssemblyInfoInputs.cache
+C:\Users\Cristi\Desktop\Learning to Code\C#\Roll 2 dice\obj\Debug\net7.0\Roll 2 dice.AssemblyInfo.cs
+C:\Users\Cristi\Desktop\Learning to Code\C#\Roll 2 dice\obj\Debug\net7.0\Roll 2 dice.csproj.CoreCompileInputs.cache
+C:\Users\Cristi\Desktop\Learning to Code\C#\Roll 2 dice\obj\Debug\net7.0\Roll 2 dice.dll
+C:\Users\Cristi\Desktop\Learning to Code\C#\Roll 2 dice\obj\Debug\net7.0\refint\Roll 2 dice.dll
+C:\Users\Cristi\Desktop\Learning to Code\C#\Roll 2 dice\obj\Debug\net7.0\Roll 2 dice.pdb
+C:\Users\Cristi\Desktop\Learning to Code\C#\Roll 2 dice\obj\Debug\net7.0\Roll 2 dice.genruntimeconfig.cache
+C:\Users\Cristi\Desktop\Learning to Code\C#\Roll 2 dice\obj\Debug\net7.0\ref\Roll 2 dice.dll
