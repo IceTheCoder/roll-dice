@@ -1,5 +1,7 @@
 # roll-dice
 
+Press ENTER to roll 2 dice until you get 2 of a kind
+
 Blog: https://icethedev2.github.io/
 
 ## Prerequisites
