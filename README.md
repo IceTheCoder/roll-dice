@@ -16,7 +16,7 @@ Blog: https://icethedev2.github.io/
 ## License
 This repository is licensed under the MIT license. In short, you must include the exact copy of this project's license in your end-user application. Read LICENSE for more information.
 
-If you decide to use portions of my software, it would be appreciated if you include an attribution in the final application, mentioning the name of software and its contributors, as well as the section in which it was used.
+If you decide to use portions of my software, it would be appreciated if you include an attribution in the final application, mentioning the name of software and its contributors, as well as the section(s) in which it was used.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
