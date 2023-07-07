@@ -1,8 +1,6 @@
 # roll-dice
 
-Press ENTER to roll 2 dice until you get 2 of a kind
-
-Blog: https://icethedev2.github.io/
+Press ENTER to roll 2 dice until you get 2 of a kind.
 
 ## Prerequisites
 - [.NET Core SDK for Visual Studio Code](https://dotnet.microsoft.com/en-us/) (Make sure to install while VSCode is closed)
