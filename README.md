@@ -29,13 +29,13 @@ I'd love to hear your suggestions on how I can improve this repo!
 You can fork the project to play around with it and create a pull request to submit your suggestions. You can also open an issue to tell me about any problems my code might have.
 
 ## Contact
-Project Link: https://github.com/IceTheDev2/roll-dice/  
+Project Link: https://github.com/IceTheGameDev/roll-dice/  
 
 Reddit: https://www.reddit.com/user/AnEntirePeach
 
-Youtube: https://www.youtube.com/channel/UCBqVJU4gjeik1RavAsVR6Pg
+Youtube: https://www.youtube.com/@IceTheGameDev
 
-E-mail: icethedev2@gmail.com
+E-mail: icethegamedev@yahoo.com
 
 ## Acknowledgements
 - [Brackeys' series on programming in C# for giving me this idea](https://youtu.be/9ozOSKCiO0I), as well as his other videos, which have helped greatly in my journey.
